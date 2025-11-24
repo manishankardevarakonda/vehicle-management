@@ -1,6 +1,6 @@
 # Vehicle Management System
-**Student:** D.manishankar
-**Roll Number:** 24MIM10251 
+**Student:** D.ManiShankar  
+**Roll Number:** 24MIM10251  
 **Course:** Programming in Java  
 **Guide:** Pricilla Dinkar Moyya  
 **Institution:** VIT Bhopal University  
